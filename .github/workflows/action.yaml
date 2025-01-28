@@ -2,8 +2,8 @@ name: Deploy my Lamba Function
 
 on:
   push:
-     branches:
-       - main
+     # branches:
+       # - main
 
 jobs:
   lint:
